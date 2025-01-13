@@ -398,3 +398,15 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+# .net 8.0 DLLs
+net8.0/
+
+# DS Store
+.DS_Store
+
+# VS Code extensions & files
+extensions.json
+.vscode/
+
